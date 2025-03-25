@@ -25,7 +25,7 @@ os.makedirs(app.config['RESULT_FOLDER'], exist_ok=True)
 
 # Load the model
 try:
-    model = YOLO('runs/detect/yolov8_fruit/weights/best.pt')
+    model = YOLO('best.pt')
     logger.info("Model loaded successfully")
 except Exception as e:
     logger.error(f"Error loading model: {str(e)}")
