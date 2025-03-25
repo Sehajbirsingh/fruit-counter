@@ -1,1 +1,9 @@
 venv/
+
+# Ignore all files in uploads and results
+static/uploads/*
+static/results/*
+
+# But keep the .gitkeep files
+!static/uploads/.gitkeep
+!static/results/.gitkeep

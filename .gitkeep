@@ -1,0 +1,7 @@
+# Create directories if they don't exist
+mkdir -p static/uploads
+mkdir -p static/results
+
+# Create .gitkeep files to track empty directories
+touch static/uploads/.gitkeep
+touch static/results/.gitkeep
