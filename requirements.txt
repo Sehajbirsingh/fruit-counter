@@ -1,19 +1,4 @@
-# Web framework
-Flask==2.3.3
-Werkzeug==2.3.7
-gunicorn==21.2.0
-
-# ML & Computer Vision
-ultralytics==8.1.2
-opencv-python-headless==4.8.1.78
-Pillow==10.1.0
-numpy>=1.22.0
-
-# Utilities
-requests==2.31.0
-python-dotenv==1.0.0
-gdown==4.7.3
-PyYAML==6.0.1
-
-# Performance
-psutil==5.9.6
+flask 
+ultralytics 
+opencv-python 
+pillow
