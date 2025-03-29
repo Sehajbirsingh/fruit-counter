@@ -135,6 +135,15 @@ python app.py
 4. Push to the branch
 5. Create a Pull Request
 
+## Try Out the Model
+
+You can try out the fruit detection model by visiting the following link:
+
+[![Try it on Hugging Face](https://img.shields.io/badge/Hugging%20Face-Try%20it%20now-yellow)](https://huggingface.co/spaces/Sehajbir/fruit-detection-app)
+
+Click the button above to access the fruit detection app hosted on Hugging Face Spaces. 
+
+
 ## License
 
 [Specify your license here]
